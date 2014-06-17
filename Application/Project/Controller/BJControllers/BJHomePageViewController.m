@@ -392,7 +392,6 @@
             break;
         }
             
-            
         case LOAD_INFORMATION_LIST_WITH_SPECIFIEDID_TY:
         {
             

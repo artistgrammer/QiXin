@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>170000</key>
+	<string>客戶端未注册</string>
+	<key>170001</key>
+	<string>当前存在其他通话</string>
+	<key>170002</key>
+	<string>解析xml异常</string>
+	<key>170003</key>
+	<string>无效的错误代码</string>
+	<key>170004</key>
+	<string>请求消息错误</string>
+	<key>170005</key>
+	<string>IO异常，系统错误或网络错误</string>
+	<key>170006</key>
+	<string>拨打电话失败</string>
+	<key>170007</key>
+	<string>sdk版本不支持</string>
+	<key>170008</key>
+	<string>加入失败</string>
+	<key>170009</key>
+	<string>未知错误</string>
+	<key>170010</key>
+	<string>连接状态</string>
+	<key>170011</key>
+	<string>下载文件失败，文件有可能不存在了</string>
+	<key>170012</key>
+	<string>上传失败</string>
+	<key>170013</key>
+	<string>chunk文件下载失败</string>
+	<key>170014</key>
+	<string>录音时间过短</string>
+	<key>170015</key>
+	<string>上传连接失败</string>
+	<key>170016</key>
+	<string>对方取消上传chunk模式</string>
+	<key>170017</key>
+	<string>下载文件失败，文件有可能不存在了</string>
+	<key>170019</key>
+	<string>网络超时</string>
+	<key>170022</key>
+	<string>发送文本过长（超过2000字节）</string>
+	<key>1</key>
+	<string>无响应无返回</string>
+	<key>2</key>
+	<string>认证失败</string>
+	<key>7</key>
+	<string>无网络</string>
+	<key>8</key>
+	<string>重新获取软交换地址</string>
+	<key>9</key>
+	<string>客户端在其他地方登陆</string>
+</dict>
+</plist>

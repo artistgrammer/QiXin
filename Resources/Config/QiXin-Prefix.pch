@@ -1,0 +1,39 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+
+#ifdef DEBUG
+#    define DLog(...) NSLog(__VA_ARGS__)
+#else
+#    define DLog(...)
+#endif
+
+// 动态获取设备参数SCREEN_WIDTH
+#define SCREEN_WIDTH  [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+#define PG_SERVER_URL @"http://120.132.145.149:9080"
+#define PG_SERVER_URL_LOGIN @"http://120.132.145.149:9080/app/common!login.action?username=yin.sa&password=123&mac=1"
+#define PG_SERVER_URL_GETNEWSLIST @"http://120.132.145.149:9080/app/common!queryCapabilityNewsByPage.action"
+//#define PG_SERVER_URL_GETALLCOURSES @"http://120.132.145.149:9080/app/course!queryCourseForCalendar.action"
+#define PG_SERVER_URL_GETALLCOURSES @"http://120.132.145.149:9080/app/course!queryCourseListForCalandar.action"
+#define PG_SERVER_URL_COURSESUBMIT @"http://120.132.145.149:9080/app/course!confirmCourse.action"
+#define PG_SERVER_URL_GETALLLIBRARYS @"http://120.132.145.149:9080/app/library!queryOnlineCourses.action"
+#define PG_SERVER_URL_GETMETERIALS @"http://120.132.145.149:9080/app/library!queryOnlineCourseMeterialList.action"
+#define PG_SERVER_URL_GETCOMMENTS @"http://120.132.145.149:9080/app/library!queryOnlineCoursecomments.action"
+#define PG_SERVER_URL_ADDCOMMENT @"http://120.132.145.149:9080/app/library!commentToOnlineCourse.action"
+#define PG_SERVER_URL_GETALLSURVEYS @"http://120.132.145.149:9080/app/survey!querySurveyList.action"

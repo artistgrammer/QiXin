@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B6EB4F8-90F3-428A-A822-69B886BD0ECE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GoHigh</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>38068FD3-8584-47ED-B7A5-D27AB2A26F7D</key>
+		<string>svn://180.153.88.234/ios/baseApp/branches/GoHigh</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GoHigh.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>38068FD3-8584-47ED-B7A5-D27AB2A26F7D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>38068FD3-8584-47ED-B7A5-D27AB2A26F7D</key>
+		<string>svn://180.153.88.234/ios/baseApp</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://180.153.88.234/ios/baseApp/branches/GoHigh/GoHigh.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>38068FD3-8584-47ED-B7A5-D27AB2A26F7D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>38068FD3-8584-47ED-B7A5-D27AB2A26F7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GoHigh</string>
+		</dict>
+	</array>
+</dict>
+</plist>

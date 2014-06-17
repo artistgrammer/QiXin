@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ProjectAppDelegate arrangeSolidColorNavigationBar]:ProjectAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bgImage.image">
+            </PersistentString>
+            <PersistentString
+               value = "[[ThemeManager shareInstance] getThemeImage:@&quot;nav_top_bg_4.png&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatDetailViewController viewWillAppear:]:ChatDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.chatTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatDetailViewController sendAttachedFile]:ChatDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UIImage imageWithContentsOfFile:@&quot;/private/var/mobile/Applications/1940C399-F932-4081-BD93-8EA3F08B0BF5/tmp/2014-5-13_16:58:39.jpg&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MeTypeViewController updateViewImage]:MeTypeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedPhoto">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

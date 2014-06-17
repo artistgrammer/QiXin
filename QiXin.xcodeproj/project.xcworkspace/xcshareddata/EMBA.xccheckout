@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B4F6F2A2-2EC9-4984-8FE6-41FA39F76CD6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EMBA</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6BB64290-B43F-4663-B7A6-882A9C8FD3F5</key>
+		<string>https://192.168.0.110/svn/IOS_GoHigh/branches/EMBA</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EMBA.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6BB64290-B43F-4663-B7A6-882A9C8FD3F5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>6BB64290-B43F-4663-B7A6-882A9C8FD3F5</key>
+		<string>https://192.168.0.110/svn/IOS_GoHigh</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.0.110/svn/IOS_GoHigh/branches/EMBA/EMBA.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6BB64290-B43F-4663-B7A6-882A9C8FD3F5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6BB64290-B43F-4663-B7A6-882A9C8FD3F5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EMBA_JIT</string>
+		</dict>
+	</array>
+</dict>
+</plist>

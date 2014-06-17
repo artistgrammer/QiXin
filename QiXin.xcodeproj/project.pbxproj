@@ -1155,7 +1155,7 @@
 		6689C6F2195011240059CB69 /* CKCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6689C6B8195011240059CB69 /* CKCalendarView.m */; };
 		6689C6F3195011240059CB69 /* CKViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6689C6BA195011240059CB69 /* CKViewController.m */; };
 		6689C6F4195011240059CB69 /* KxMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 6689C6BD195011240059CB69 /* KxMenu.m */; };
-		6689C6F6195021A60059CB69 /* login_bg.png.png in Resources */ = {isa = PBXBuildFile; fileRef = 6689C6F5195021A60059CB69 /* login_bg.png.png */; };
+		6689C6F6195021A60059CB69 /* login_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 6689C6F5195021A60059CB69 /* login_bg.png */; };
 		6689C6FF19502C810059CB69 /* ImageList.m in Sources */ = {isa = PBXBuildFile; fileRef = 6689C6FE19502C810059CB69 /* ImageList.m */; };
 		6689C71A195035D70059CB69 /* 1.0.0-home(1)_09-change@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6689C701195035D70059CB69 /* 1.0.0-home(1)_09-change@2x.png */; };
 		6689C71B195035D70059CB69 /* 1.0.0-home(1)_09@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6689C702195035D70059CB69 /* 1.0.0-home(1)_09@2x.png */; };
@@ -3082,7 +3082,7 @@
 		6689C6BA195011240059CB69 /* CKViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CKViewController.m; sourceTree = "<group>"; };
 		6689C6BC195011240059CB69 /* KxMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KxMenu.h; sourceTree = "<group>"; };
 		6689C6BD195011240059CB69 /* KxMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KxMenu.m; sourceTree = "<group>"; };
-		6689C6F5195021A60059CB69 /* login_bg.png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login_bg.png.png; sourceTree = "<group>"; };
+		6689C6F5195021A60059CB69 /* login_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login_bg.png; sourceTree = "<group>"; };
 		6689C6FD19502C810059CB69 /* ImageList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageList.h; sourceTree = "<group>"; };
 		6689C6FE19502C810059CB69 /* ImageList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageList.m; sourceTree = "<group>"; };
 		6689C701195035D70059CB69 /* 1.0.0-home(1)_09-change@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1.0.0-home(1)_09-change@2x.png"; sourceTree = "<group>"; };
@@ -5780,7 +5780,7 @@
 		6689C300195010320059CB69 /* Login */ = {
 			isa = PBXGroup;
 			children = (
-				6689C6F5195021A60059CB69 /* login_bg.png.png */,
+				6689C6F5195021A60059CB69 /* login_bg.png */,
 				6689C301195010320059CB69 /* login_auto_sel.png */,
 				6689C302195010320059CB69 /* login_auto_unsel.png */,
 				6689C305195010320059CB69 /* login_btn.png */,
@@ -7305,7 +7305,7 @@
 				6689C4D2195010320059CB69 /* Home_dlalogue.png in Resources */,
 				6689C429195010320059CB69 /* Address_connect.png in Resources */,
 				6689C59E195010320059CB69 /* button_change_password.png in Resources */,
-				6689C6F6195021A60059CB69 /* login_bg.png.png in Resources */,
+				6689C6F6195021A60059CB69 /* login_bg.png in Resources */,
 				6689C515195010320059CB69 /* 1.2.1-library_16.png in Resources */,
 				6689C493195010320059CB69 /* VoiceLeft3.png in Resources */,
 				6689C44A195010320059CB69 /* bubble_self@2x.png in Resources */,
